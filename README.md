@@ -9,7 +9,7 @@ Contact our monster detective agency today and we might have the solution for yo
 Clone the project
 
 ```bash
-  gh repo clone nichgalzin/monster-inc
+  git clone [nichgalzin/monster-inc](https://github.com/fac28/monster-inc.git
 ```
 
 Go to the project directory
